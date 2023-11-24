@@ -8,7 +8,7 @@
 #include <iostream>
 
 class Cake {
-private:
+protected:
     Date ExpiryDate;
     int const Diameter;
     double height;
